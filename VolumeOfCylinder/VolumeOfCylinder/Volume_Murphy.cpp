@@ -1,6 +1,7 @@
 ﻿/*
 CPT-180-24
-Volume of a Cylindrical Fuel TankProgrammer: Zachary Murphy
+Volume of a Cylindrical Fuel Tank
+Programmer: Zachary Murphy
 Purpose: Takes input from user to calculate volume of fuel tank
 */
 
